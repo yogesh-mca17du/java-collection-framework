@@ -1,4 +1,4 @@
-package com.engineeringdigest.collectionframework;
+package com.engineeringdigest.collectionframework.interfaces;
 
 import java.util.ArrayList;
 import java.util.Iterator;

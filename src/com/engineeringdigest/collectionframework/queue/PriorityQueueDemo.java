@@ -1,4 +1,4 @@
-package com.engineeringdigest.collectionframework;
+package com.engineeringdigest.collectionframework.queue;
 
 import java.util.PriorityQueue;
 

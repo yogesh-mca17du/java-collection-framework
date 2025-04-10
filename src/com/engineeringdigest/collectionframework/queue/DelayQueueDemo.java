@@ -1,4 +1,4 @@
-package com.engineeringdigest.collectionframework;
+package com.engineeringdigest.collectionframework.queue;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.DelayQueue;

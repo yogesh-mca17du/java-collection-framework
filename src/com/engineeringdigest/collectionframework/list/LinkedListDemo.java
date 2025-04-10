@@ -1,9 +1,9 @@
-package com.engineeringdigest.collectionframework;
+package com.engineeringdigest.collectionframework.list;
 
 import java.util.Arrays;
 import java.util.LinkedList;
 
-public class Test {
+public class LinkedListDemo {
     public static void main(String[] args) {
         LinkedList<Integer> linkedList = new LinkedList<>();
         linkedList.add(1);

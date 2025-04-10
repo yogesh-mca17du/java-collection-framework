@@ -1,4 +1,4 @@
-package com.engineeringdigest.collectionframework;
+package com.engineeringdigest.collectionframework.list;
 
 import java.util.Vector;
 

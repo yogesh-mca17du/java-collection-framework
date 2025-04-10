@@ -1,4 +1,4 @@
-package com.engineeringdigest.collectionframework;
+package com.engineeringdigest.collectionframework.map;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;

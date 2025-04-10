@@ -1,4 +1,4 @@
-package com.engineeringdigest.collectionframework;
+package com.engineeringdigest.collectionframework.stack;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

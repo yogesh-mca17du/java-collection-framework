@@ -1,4 +1,6 @@
-package com.engineeringdigest.collectionframework;
+package com.engineeringdigest.collectionframework.interfaces;
+
+import com.engineeringdigest.collectionframework.list.Student;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.engineeringdigest.collectionframework;
+package com.engineeringdigest.collectionframework.set;
 
 import java.util.*;
 import java.util.concurrent.ConcurrentSkipListSet;
